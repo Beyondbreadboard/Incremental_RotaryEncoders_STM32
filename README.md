@@ -3,5 +3,5 @@ After Tearing down an Old HP printer I found this nicely connected incremental r
 I tried to interface the same sensor with my Stm32f411 mcu, with out writing many lines of code.
 
 
-![Incremental_Rotary_Encoder](IMG_7087.jpg)
+![Incremental_Rotary_Encoder](IMG_7087.JPG)
 ![Timing_diagram](Untitled2.png)
